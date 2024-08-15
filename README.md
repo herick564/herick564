@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @herick564
 - 👀 Estou enteressado em criar sites
 - 🌱 Atualmente estou aprendendo a linguagem de programação
-- 💞️ Estou procurando colaborar para a criação de
+- 💞️ Estou procurando colaborar para a criação de jogos 
 - 📫 How to reach me ...
 
 <!---
